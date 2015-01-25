@@ -13,4 +13,4 @@ I'd love to join GitHub team and hence my application. You can find out more abo
 
 Kind regards,
 
-Greg
+Greg (aka Grzegorz)
