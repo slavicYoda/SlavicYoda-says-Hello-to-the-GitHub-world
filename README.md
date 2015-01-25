@@ -12,4 +12,5 @@ I possess, keen mind (don’t we all?) eloquence as well as developed writing sk
 I'd love to join GitHub team and hence my application. You can find out more about me in my resume and cover letter.
 
 Kind regards,
+
 Greg
